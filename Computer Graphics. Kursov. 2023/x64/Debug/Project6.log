@@ -1,0 +1,62 @@
+﻿  Source.cpp
+D:\proj\Project6\Project6\Source.cpp(33,23): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\proj\Project6\Project6\Source.cpp(33,19): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\proj\Project6\Project6\Source.cpp(33,14): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\proj\Project6\Project6\Source.cpp(33,10): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\proj\Project6\Project6\Source.cpp(57,27): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\proj\Project6\Project6\Source.cpp(57,22): warning C4244: инициализация: преобразование "float" в "const int", возможна потеря данных
+D:\proj\Project6\Project6\Source.cpp(58,27): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\proj\Project6\Project6\Source.cpp(58,22): warning C4244: инициализация: преобразование "float" в "const int", возможна потеря данных
+D:\proj\Project6\Project6\Source.cpp(66,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\proj\Project6\Project6\Source.cpp(68,20): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\proj\Project6\Project6\Source.cpp(82,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\proj\Project6\Project6\Source.cpp(84,20): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\proj\Project6\Project6\Source.cpp(134,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\proj\Project6\Project6\Source.cpp(142,31): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\proj\Project6\Project6\Source.cpp(142,27): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\proj\Project6\Project6\Source.cpp(142,22): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\proj\Project6\Project6\Source.cpp(142,18): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\proj\Project6\Project6\Source.cpp(150,31): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\proj\Project6\Project6\Source.cpp(150,27): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\proj\Project6\Project6\Source.cpp(150,22): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\proj\Project6\Project6\Source.cpp(150,18): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\proj\Project6\Project6\Source.cpp(158,31): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\proj\Project6\Project6\Source.cpp(158,27): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\proj\Project6\Project6\Source.cpp(158,22): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\proj\Project6\Project6\Source.cpp(158,18): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\proj\Project6\Project6\Source.cpp(166,31): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\proj\Project6\Project6\Source.cpp(166,27): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\proj\Project6\Project6\Source.cpp(166,22): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\proj\Project6\Project6\Source.cpp(166,18): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\proj\Project6\Project6\Source.cpp(173,19): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\proj\Project6\Project6\Source.cpp(176,19): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\proj\Project6\Project6\Source.cpp(178,31): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\proj\Project6\Project6\Source.cpp(178,27): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\proj\Project6\Project6\Source.cpp(178,22): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\proj\Project6\Project6\Source.cpp(178,18): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\proj\Project6\Project6\Source.cpp(190,31): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\proj\Project6\Project6\Source.cpp(190,27): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\proj\Project6\Project6\Source.cpp(190,22): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\proj\Project6\Project6\Source.cpp(190,18): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\proj\Project6\Project6\Source.cpp(195,27): warning C4305: инициализация: усечение из "double" в "float"
+D:\proj\Project6\Project6\Source.cpp(196,21): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\proj\Project6\Project6\Source.cpp(197,21): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\proj\Project6\Project6\Source.cpp(206,31): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\proj\Project6\Project6\Source.cpp(206,27): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\proj\Project6\Project6\Source.cpp(206,22): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\proj\Project6\Project6\Source.cpp(206,18): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\proj\Project6\Project6\Source.cpp(211,28): warning C4305: инициализация: усечение из "double" в "float"
+D:\proj\Project6\Project6\Source.cpp(212,21): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\proj\Project6\Project6\Source.cpp(213,21): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\proj\Project6\Project6\Source.cpp(222,31): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\proj\Project6\Project6\Source.cpp(222,27): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\proj\Project6\Project6\Source.cpp(222,22): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\proj\Project6\Project6\Source.cpp(222,18): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ cleardevice в функции "void __cdecl control(char)" (?control@@YAXD@Z).
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ line в функции "void __cdecl control(char)" (?control@@YAXD@Z).
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ putpixel в функции "void __cdecl algorithm_brez(void)" (?algorithm_brez@@YAXXZ).
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ setcolor в функции main.
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ closegraph в функции main.
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ initwindow в функции main.
+graphics.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+D:\proj\Project6\x64\Debug\Project6.exe : fatal error LNK1120: неразрешенных внешних элементов: 6
